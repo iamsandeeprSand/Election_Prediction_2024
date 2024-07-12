@@ -5,7 +5,7 @@
 
 # Election Prediction using Machine Learning
 
-This project aims to predict the results of the 2024 elections using historical election data from 1978-2019. We leverage various machine learning algorithms, including deep learning models with TensorFlow and Keras, to achieve accurate predictions. An interactive web application built with Streamlit provides real-time election predictions and visualizations.
+This project aims to predict the results of the 2024 elections using historical election data from 1999-2019. We leverage various machine learning algorithms, including deep learning models with TensorFlow and Keras, to achieve accurate predictions. An interactive web application built with Streamlit provides real-time election predictions and visualizations.
 
 ## Project Overview
 
