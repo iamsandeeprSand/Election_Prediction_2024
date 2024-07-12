@@ -63,8 +63,8 @@ Contributions are welcome! Please fork this repository and submit pull requests 
 
 
 ---
-**Youtube** [Presentation Link](https://youtu.be/waRUKisMfxo?si=xKhAgbx9O-Q12RGP)
+**Youtube:** [Presentation Link](https://youtu.be/waRUKisMfxo?si=xKhAgbx9O-Q12RGP)
 **Author:** Sandeep R  
-**Contact:** [LinkedIn](LinkedIn:[(https://www.linkedin.com/in/sandeep-r-770a9a1b2/)])
+**Contact:** [LinkedIn](https://www.linkedin.com/in/sandeep-r-770a9a1b2/)
 
 
