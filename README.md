@@ -25,7 +25,6 @@ This project aims to predict the results of the 2024 elections using historical 
 1. Clone the repository:
     ```bash
     git clone https://github.com/iamsandeeprSand/Elelction_Prediction_2024
-    cd election-prediction-ml
     ```
 
 2. Install the required dependencies:
@@ -35,7 +34,7 @@ This project aims to predict the results of the 2024 elections using historical 
 
 3. Run the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run ElectionPrediction.py
     ```
 
 ## Usage
